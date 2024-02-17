@@ -1,5 +1,4 @@
-# Landing-Page-Sederhana
-# Coffee Lovers Landing Page
+# Landing Page Sederhana
 
 Ini adalah proyek landing page sederhana untuk para pecinta kopi. Halaman ini menyajikan informasi dasar tentang kopi, jenis-jenisnya, serta cara untuk menikmati secangkir kopi yang sempurna.
 
@@ -11,7 +10,7 @@ Ini adalah proyek landing page sederhana untuk para pecinta kopi. Halaman ini me
 
 ## Instalasi
 
-1. Clone repositori ini: `git clone https://github.com/username/landing-page-sederhana.git`
+1. Clone repositori ini: `git@github.com:JarsXen/Landing-Page-Sederhana.git`
 2. Buka file `index.html` di browser Anda.
 
 ## Kontribusi
