@@ -10,7 +10,7 @@ Ini adalah proyek landing page sederhana untuk para pecinta kopi. Halaman ini me
 
 ## Instalasi
 
-1. Clone repositori ini: `git@github.com:JarsXen/Landing-Page-Sederhana.git`
+1. Clone repositori ini: `https://github.com/JarsXen/Landing-Page-Sederhana.git`
 2. Buka file `index.html` di browser Anda.
 
 ## Kontribusi
